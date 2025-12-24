@@ -824,11 +824,11 @@ To-Do-Application/
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | Dec 2024 | Development Team | Initial SRS document |
+| 1.0 | Dec 2025 | Mohamed | Initial SRS document |
 
 ### 10.4 Approval
 
-**Prepared by:** Development Team  
+**Prepared by:** Mohamed  
 **Reviewed by:** _________________  
 **Approved by:** _________________  
 **Date:** _________________
@@ -838,12 +838,13 @@ To-Do-Application/
 ## Document Control
 
 **Document Status**: Final  
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Next Review**: As needed  
-**Distribution**: Development Team, Stakeholders
+**Distribution**: Developer , Stakeholders
 
 ---
 
 **End of Document**
+
 
 
